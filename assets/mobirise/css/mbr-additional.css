@@ -1931,6 +1931,9 @@ a {
 .cid-taVIRk0wD2 .mbr-section-title {
   color: #ffffff;
 }
+.cid-taVIRk0wD2 .mbr-section-subtitle {
+  color: #ffffff;
+}
 .cid-taVJNW4SDi {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2012,6 +2015,8 @@ a {
 .cid-taQvkaaLUn {
   z-index: 1000;
   width: 100%;
+  position: relative;
+  min-height: 60px;
 }
 .cid-taQvkaaLUn nav.navbar {
   position: fixed;
@@ -2119,8 +2124,8 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  position: absolute;
-  background: rgba(0, 0, 0, 0.7);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+  background: #000000;
 }
 .cid-taQvkaaLUn .navbar.opened {
   transition: all 0.3s;
