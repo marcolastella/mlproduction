@@ -5203,13 +5203,15 @@ a {
 .cid-tlcartdyDT .mbr-section-btn {
   color: #fafafa;
 }
-.cid-tlcay0MjQ0 {
-  background-image: url("../../../assets/images/priscilla-du-preez-aw1vllh39ww-unsplash-2000x1333.jpg");
+.cid-tm3HYYSnDy {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr-1440x1920.jpg");
 }
-.cid-tlcay0MjQ0 .mbr-fallback-image.disabled {
+.cid-tm3HYYSnDy .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-tlcay0MjQ0 .mbr-fallback-image {
+.cid-tm3HYYSnDy .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -5217,6 +5219,126 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+}
+.cid-tm3HYYSnDy .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tm3HYYSnDy .mbr-section-title,
+.cid-tm3HYYSnDy .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-tm3HYYSnDy .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tm3HYYSnDy .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tm3HYYSnDy .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-tm3HYYSnDy .mbr-text {
+  color: #ffffff;
+}
+.cid-tm3IzywP9V {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+}
+.cid-tm3IzywP9V .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tm3IzywP9V .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tm3IzywP9V .row {
+  flex-direction: row-reverse;
+}
+.cid-tm3IzywP9V .video-wrapper iframe {
+  width: 100%;
+}
+.cid-tm3IzywP9V .mbr-section-title,
+.cid-tm3IzywP9V .mbr-description {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .cid-tm3IzywP9V .text-wrapper {
+    padding: 2rem;
+  }
+}
+.cid-tm3IzywP9V .mbr-section-title {
+  color: #ffffff;
+}
+.cid-tm3IzywP9V .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-tm3IzywP9V .mbr-text {
+  color: #ffffff;
+}
+.cid-tm3Jkoigbt {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/mbr-3-1920x1280.jpg");
+}
+.cid-tm3Jkoigbt .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tm3Jkoigbt .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tm3Jkoigbt .list-group-item {
+  background-color: transparent;
+  padding: .5rem 3.25rem;
+}
+.cid-tm3Jkoigbt .plan-body {
+  padding-bottom: 2rem;
+}
+.cid-tm3Jkoigbt .plan-header {
+  padding-top: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-tm3Jkoigbt .price {
+  color: #cf0232;
+}
+.cid-tm3Jkoigbt .plan {
+  word-break: break-word;
+  background-color: #ffffff;
+}
+.cid-tm3Jkoigbt .plan .list-group-item {
+  position: relative;
+  justify-content: center;
+  border: 0;
+}
+.cid-tm3Jkoigbt .plan .list-group-item::after {
+  position: absolute;
+  bottom: 1px;
+  left: 25%;
+  width: 50%;
+  height: 1px;
+  content: "";
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.cid-tm3Jkoigbt .plan .list-group-item:last-child::after {
+  display: none;
+}
+@media (max-width: 991px) {
+  .cid-tm3Jkoigbt .plan {
+    margin-bottom: 2rem;
+  }
 }
 .cid-tlceoIxz4T {
   z-index: 1000;
